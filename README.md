@@ -5,6 +5,10 @@ This mobile game, developed in Unity, uses the microphone to let players blow up
      <img src="https://github.com/rosibeluseda/Ballon_Party/assets/145386489/d9a630b9-e774-48db-9b17-ddbec287f2c6" alt="preview game" width="300px">
 </p>
 
+**Features:**
+- **Single-screen Gameplay**: The game is designed to be played on one screen, making it easy to pick up and play.
+- **Microphone Interaction**: Blow into the microphone to interact with the balloons.
+
 
 # Microphone Functionality
 The game will prompt the player to set up the microphone before starting. If the player does not configure the microphone's sensitivity, the game will not be able to start. The initialization process includes the following steps:
